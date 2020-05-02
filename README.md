@@ -1,10 +1,10 @@
-# 3d-printer-setup
+# 3D Printer Setup
 
 This is some information about my 3d printing setup, and some knowledge I accumulated on the way.
 
 ## Ender 3 Pro (with benefits)
 
-I started with an [Ender 3 Pro](https://www.creality3d.shop/products/creality3d-ender-3-pro-high-precision-3d-printer) that I got from [Banggood](https://www.banggood.com/Creality-3D-Customized-Version-Ender-3X-Pro-or-Ender-3Xs-Pro-Prusa-I3-3D-Printer-220x220x250mm-Printing-Size-With-Magnetic-Removable-Sticker-or-Glass-Plate-Platform-or-V1_1_5-Super-Silent-Mainboard-p-1535619.html) for relatively cheap (£220 shipped). This particular listing comes with the upgraded [Silent Mainboard V1.1.5](https://www.creality3dofficial.com/products/creality-silent-mainboard-v1-1-5) already preinstalled, making it an even better deal. They also throw in a glass bed and some clips, along with the soft magnetic bed Ender 3 Pros come with.
+I started with an [Ender 3 Pro](https://www.creality3d.shop/products/creality3d-ender-3-pro-high-precision-3d-printer) that I got from [Banggood](https://www.banggood.com/Creality-3D-Customized-Version-Ender-3X-Pro-or-Ender-3Xs-Pro-Prusa-I3-3D-Printer-220x220x250mm-Printing-Size-With-Magnetic-Removable-Sticker-or-Glass-Plate-Platform-or-V1_1_5-Super-Silent-Mainboard-p-1535619.html) for relatively cheap (£220 shipped). This particular listing comes with the upgraded [Silent Mainboard V1.1.5](https://www.creality3dofficial.com/products/creality-silent-mainboard-v1-1-5) already preinstalled, making it an even better deal. They also throw in a glass bed and some clips, along with the soft magnetic bed every Ender 3 Pro comes with.
 
 ## Non-Printable Upgrades
 It is well known in the community that the Ender 3 (and the Pro for that matter) suffer from some common issues that can be luckily fixed.
