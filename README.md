@@ -23,11 +23,13 @@ The solution is to upgrade to an aluminium extruder. I got mine from [Banggood](
 
 The stock PTFE tube between the extruder and the nozzle can get loose because of the couplings on both sides. Mine happened to come with clips to fix them in place. Also, the upgraded extruder has an upgraded *PC4-M10* coupling on it, so probably there is no need to replace that.
 
-It seems that stock models of Ender 3 (Pro) come with a *PC4-M10* coupling on the hotend and a *PC4-M6* on the extruder end. The solution will be to replace those, and/or add some clips to hold them extended. 
+It seems that stock models of Ender 3 (Pro) come with a *PC4-M10* coupling on the hotend and a *PC4-M6* on the extruder end. The solution will be to replace those, and/or add some clips to hold them extended.
 
 ### PTFE Tube is not great
 
 Apart from not being properly fixed on both sides, the PTFE tube that comes with the printer is not great in itself. Many people recommend the blue PTFE tubing kit from [Capricorn](https://www.captubes.com/shop/#!/XS-Creality-Kit-1-Meter/p/123266986/category=23214267). It has a smaller interior diameter, allowing for a smaller tolerance in the material slack. It might not be enough to let you print flexible materials on a Bowden system, but it is still a worthwhile upgrade. I got mine from [Amazon UK](https://www.amazon.co.uk/Sovol-Genuine-Capricorn-Filament-Pneumatic/dp/B085WJYL1J/).
+
+![PTFE](pics/tube.jpeg)
 
 ### Hotend temperature
 
@@ -37,8 +39,7 @@ Really high temperatures are not really recommended with this type of hotend any
 
 ### Better springs
 
-In terms of bed leveling, people recommend getting some better springs to keep the bed stiffer, which then requires less fiddling with the bed level over time. ![Springs](pics/springs.jpeg). This will raise bed by 3-5mm, requiring the repositioning of the 
-Z axis home switch, like so: ![Switch](pics/home-switch.jpeg)
+In terms of bed leveling, people recommend getting some better springs to keep the bed stiffer, which then requires less fiddling with the bed level over time. ![Springs](pics/springs.jpeg). I also added *nyloc* nuts at the base of the bed screws, to keep them in place while the adjustment wheels are being turned. This will raise bed by 3-5mm, requiring the repositioning of the Z axis home switch, like so: ![Switch](pics/home-switch.jpeg)
 
 This is also the case when adding the glass bed that adds 5mm in itself: ![Bed](pics/glass-bed.jpeg)
 
