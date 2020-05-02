@@ -57,7 +57,15 @@ In terms of printable upgrades, there are a couple I highly recommend for a new 
 ![Drawer](pics/drawer.jpeg)
 * [Coupling clips](https://www.thingiverse.com/thing:2994683), who said you need to buy those clips when you can print them! 
 
-## Octoprint
+## Software
+
+### Slicer
+
+Nowadays, PrusaSlicer has Ender 3 compatibility, and the profile is pretty good. There are some things worth turning on, but I will leave this as an exercise for the reader :).
+One thing I found useful is to add a 3d model of the [magnetic bed](bed-model/bed.stl), so that you have a visual reference in PrusaSlicer when you're manipulating prints:
+![PrusaSlicer](pics/prusa-slicer.png)
+
+### Octoprint
 
 Using Octoprint to control the printer is a great way to remotely control and monitor your long prints, not requiring you to be in the same room as the printer all the time! Just flash [Octoprint](https://octoprint.org) on a MicroSD card and pop it into a Raspberry Pi and you're good to go. Adding a USB webcam into the mix makes things even better:
 
