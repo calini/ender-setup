@@ -50,7 +50,8 @@ In terms of printable upgrades, there are a couple I highly recommend for a new 
 * [Z-axis motor spacer](https://www.thingiverse.com/thing:2752080), aligns the Z axis motor better so the movement is perfectly smooth. Must have! ![Spacer](pics/z-axis.jpeg)
 * [Upgraded nozzle fan duct](https://www.thingiverse.com/thing:3906045), allows much better cooling of parts at the nozzle. Another must have! ![Fan Duct](pics/fan-duct.jpeg)
 * [Extruder knob](https://www.thingiverse.com/thing:3109769), allows manual movement of the extruder, and is a good visual cue that the extruder is moving. ![Knob](pics/extruder-knob.jpeg)
-* [Filler - Filament roller](https://www.thingiverse.com/thing:3020026) is a great fillament roller that is modular and installs with all kinds of mounts. Note: You will need two standard skateboard bearings
+* [Filler - Filament roller](https://www.thingiverse.com/thing:3020026) is a great fillament roller that is modular and installs with all kinds of mounts. Note: You will need two standard skateboard bearings.
+![Filler](pics/filler.jpeg)
 * [Cable Clips](https://www.thingiverse.com/thing:2880021) mount to the rails of the printer, keeping the display ribbon cable in place. Print 2-3 of those
 * [Display cover](https://www.thingiverse.com/thing:2987100), great preventing touching the back of your screen
 * [Front drawer](https://www.thingiverse.com/thing:3162464), you can place your tools in there. Note: Very long print.
@@ -77,3 +78,7 @@ After all of this configuration and fiddling, you might be wondering.. Where is 
 Well, there it is, and apart from a bit of stringing which is common with Bowden systems (and can be mitigated somewhat with slicer settings), it looks great.
 
 ![Benchy](pics/benchy.jpeg)
+
+Also, check out how well this bust of Helios printed. Just perfect while listening to some [MACINTOSH PLUS](https://www.youtube.com/watch?v=bAgmGZ9iQ2Y).
+
+![Helios](pics/helios.jpeg)
