@@ -10,14 +10,33 @@ I started with an [Ender 3 Pro](https://www.creality3d.shop/products/creality3d-
 
 ## Non-Printable Upgrades
 
-It is well known in the community that the Ender 3 (and the Pro for that matter) suffer from some common issues that can be luckily fixed.
+It is well known in the community that the Ender 3 (and the Pro for that matter) suffer from some common issues that can be luckily fixed. While keeping true to the principle of being economical, I decided to invest a bit in some upgrades I consider worthwhile:
 
-### Extruder Issues
+Product | Description | Price | Source | Date
+  ---   |     ---     |  ---  |  ---   | ---
+Ender 3 Pro | Ender 3 Pro + Upgraded Silent Motherboard v1.1.5 + Glass Bed | £220 | Banggood | 2020.05.08
+Capricorn Tube | PTFE Tube with cutter | £20 | Amazon | 2020.05.12
+Bearings | 608ZZ Bearings for making an upgraded filament holder | £7 | Amazon | 2020.05.12
+Bed springs | Upgraded bed springs and Nylock nuts | £10 | Amazon | 2020.05.15
+PLA | 2KG, cheap PLA from Sovol | £27 | Amazon | 2020.04.20
+PLA | 1KG, Marble PLA from Geeetech | £24 | Amazon | 2020.05.10
+PLA | 1KG, Blue PLA from SunLu | £28 | Amazon | 2020.05.10
+Replacement Rollers | Plastic Wheels for Z gantry | £14 | Amazon | 2020.05.10
+Lubricant | Dry PTFE Lubricant from WD-40 | £8 | Amazon | 2020.05.10
+Couplings | 10x PTFE Tube connectors (PC4-M10) | £8 | Amazon | 2020.05.14
+Z-Axis Brass Nut | T8 Brass Nut | £4.5 | eBay | 2020.05.14
+Nozzle Wrench | Nozzle Wrench | £4 | eBay | 2020.05.03
+Magnetic Bed Surface | Replacement Magnetic Bed Surface for Ender 3 | £12 | eBay | 2020.04.29
+Nozzle Set | 19x Nozzles 0.2-1.0mm | £4.5 | eBay | 2020.04.25
+Extruder Upgrade | Aluminium Block Metal Extruder kit | £12.5 | eBay | 2020.04.08
+Hotend Silicone Cover | Hotend Heating Block Silicone Cover | £4 | eBay | 2020.04.08
+All Metal Extruder + Direct Drive | All Metal Extruder + Direct Drive Kit from MicroSwiss | £105 | eBay | 2020.05.16
 
-The plastic extruder that comes stock on the Ender 3 seems to pose problems extruding at times. 
-The solution is to upgrade to an aluminium extruder. I got mine from [Banggood](https://www.banggood.com/Aluminum-Block-Silver-Metal-Extruder-Kit-for-Creality-3D-Ender-33-Pro5CR-1010S-1_75mm-Filament-p-1577567.html) as well.
+### Better springs
 
-![Extruder](pics/extruder.jpeg)
+In terms of bed leveling, people recommend getting some better springs to keep the bed stiffer, which then requires less fiddling with the bed level over time. ![Springs](pics/springs.jpeg). I also added *nyloc* nuts at the base of the bed screws, to keep them in place while the adjustment wheels are being turned. This will raise bed by 3-5mm, requiring the repositioning of the Z axis home switch, like so: ![Switch](pics/home-switch.jpeg)
+
+This is also the case when adding the glass bed that adds 5mm in itself: ![Bed](pics/glass-bed.jpeg)
 
 ### PTFE Tube is loose
 
@@ -31,19 +50,28 @@ Apart from not being properly fixed on both sides, the PTFE tube that comes with
 
 ![PTFE](pics/tube.jpeg)
 
+### Extruder Issues
+
+The plastic extruder that comes stock on the Ender 3 seems to pose problems extruding at times. 
+The solution is to upgrade to an aluminium extruder. I got mine from [Banggood](https://www.banggood.com/Aluminum-Block-Silver-Metal-Extruder-Kit-for-Creality-3D-Ender-33-Pro5CR-1010S-1_75mm-Filament-p-1577567.html) as well.
+
+![Extruder](pics/extruder.jpeg)
+
 ### Hotend temperature
 
 Some people report the hotend falling behind when it comes to keeping up high temperatures. An easy solution is to add a silicone cover for the hotend. The printer I got from Banggood already came with one installed, but you can get one that covers the nozzle a little bit better from [Banggood](https://www.banggood.com/Creality-3D-Hotend-Heating-Block-Silicone-Cover-Case-For-3D-Printer-Part-p-1372492.html?rmmds=myorder&cur_warehouse=CN).
 
-Really high temperatures are not really recommended with this type of hotend anyway since the PTFE tube is all the way inside it. For printing high temperature materials like ABS or NylonX, it is recommended that you upgrade to an all metal hotend like the Micro Swiss.
+Really high temperatures are not really recommended with this type of hotend anyway since the PTFE tube is all the way inside it. For printing high temperature materials like ABS or NylonX, it is recommended that you upgrade to an all-metal hotend like the MicroSwiss.
 
-### Better springs
+### All-metal hotend
 
-In terms of bed leveling, people recommend getting some better springs to keep the bed stiffer, which then requires less fiddling with the bed level over time. ![Springs](pics/springs.jpeg). I also added *nyloc* nuts at the base of the bed screws, to keep them in place while the adjustment wheels are being turned. This will raise bed by 3-5mm, requiring the repositioning of the Z axis home switch, like so: ![Switch](pics/home-switch.jpeg)
+UPDATE: I decided to go ahead with a MicroSwiss all-metal hotend alongside their direct drive conversion kit. This setup works really well, and it increases the printers' capability to print different materials such as TPE (flexible) or PC (printing temperature around 280 degrees). It is a great upgrade for this printer!
 
-This is also the case when adding the glass bed that adds 5mm in itself: ![Bed](pics/glass-bed.jpeg)
+Some settings have to be configured in your slicer to allow printing in direct drive mode. In particular, MicroSwiss recommends setting an extrusion length to a value up 2mm. I have mine set at 1.2mm, with very little stringing and great looking prints. Also, an e-step calibration is necessary. A good starting point is apparently 130 steps/mm.  
 
-## Printable Upgrades
+![Direct Drive](pics/direct-drive.jpeg)
+
+### Printable Upgrades
 
 In terms of printable upgrades, there are a couple I highly recommend for a new Ender 3:
 
