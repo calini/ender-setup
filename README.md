@@ -14,23 +14,38 @@ It is well known in the community that the Ender 3 (and the Pro for that matter)
 
 Product | Description | Price | Source | Date
   ---   |     ---     |  ---  |  ---   | ---
-Ender 3 Pro | Ender 3 Pro + Upgraded Silent Motherboard v1.1.5 + Glass Bed | £220 | Banggood | 2020.05.08
-Capricorn Tube | PTFE Tube with cutter | £20 | Amazon | 2020.05.12
-Bearings | 608ZZ Bearings for making an upgraded filament holder | £7 | Amazon | 2020.05.12
-Bed springs | Upgraded bed springs and Nylock nuts | £10 | Amazon | 2020.05.15
-PLA | 2KG, cheap PLA from Sovol | £27 | Amazon | 2020.04.20
-PLA | 1KG, Marble PLA from Geeetech | £24 | Amazon | 2020.05.10
-PLA | 1KG, Blue PLA from SunLu | £28 | Amazon | 2020.05.10
-Replacement Rollers | Plastic Wheels for Z gantry | £14 | Amazon | 2020.05.10
-Lubricant | Dry PTFE Lubricant from WD-40 | £8 | Amazon | 2020.05.10
-Couplings | 10x PTFE Tube connectors (PC4-M10) | £8 | Amazon | 2020.05.14
-Z-Axis Brass Nut | T8 Brass Nut | £4.5 | eBay | 2020.05.14
-Nozzle Wrench | Nozzle Wrench | £4 | eBay | 2020.05.03
-Magnetic Bed Surface | Replacement Magnetic Bed Surface for Ender 3 | £12 | eBay | 2020.04.29
-Nozzle Set | 19x Nozzles 0.2-1.0mm | £4.5 | eBay | 2020.04.25
-Extruder Upgrade | Aluminium Block Metal Extruder kit | £12.5 | eBay | 2020.04.08
-Hotend Silicone Cover | Hotend Heating Block Silicone Cover | £4 | eBay | 2020.04.08
-All Metal Extruder + Direct Drive | All Metal Extruder + Direct Drive Kit from MicroSwiss | £105 | eBay | 2020.05.16
+Ender 3 Pro | Ender 3 Pro + Upgraded Silent Motherboard v1.1.5 + Glass Bed | £220 | Banggood.com | 2020.05.08
+All Metal Extruder + Direct Drive | All Metal Extruder + Direct Drive Kit from MicroSwiss | £105 | eBay.co.uk | 2020.05.16
+Hotend Silicone Cover | Hotend Heating Block Silicone Cover | £4 | eBay.co.uk | 2020.04.08
+Bed springs | Upgraded bed springs and Nylock nuts | £10 | Amazon.co.uk | 2020.05.15
+Belts | Ruthex GT2 Belts | £10 | Amazon.co.uk | 2020.08.01
+Belt tensioners | X, Y axis belt tensioners | £30 | eBay.co.uk | 2020.07.15
+Z-Axis Brass Nut | T8 Brass Nut | £4.5 | eBay.co.uk | 2020.05.14
+Nozzle | 0.4mm MicroSwiss Nozzle | £20 | 3djake.uk | 2020.04.25
+Replacement Rollers | Plastic Wheels for Z gantry | £14 | Amazon.co.uk | 2020.05.10
+Bearings | 608ZZ (skateboard) bearings for making an upgraded filament holder | £7 | Amazon.co.uk | 2020.05.12
+
+## Unused Upgrades
+
+Product | Description | Price | Source | Date
+  ---   |     ---     |  ---  |  ---   | ---
+Nozzle Set | 19x Nozzles 0.2-1.0mm | £4.5 | eBay.co.uk | 2020.04.25
+Nozzle Wrench | Nozzle Wrench | £4 | eBay.co.uk | 2020.05.03
+Magnetic Bed Surface | Replacement Magnetic Bed Surface for Ender 3 | £12 | eBay.co.uk | 2020.04.29
+Couplings | 10x PTFE Tube connectors (PC4-M10) | £8 | Amazon.co.uk | 2020.05.14
+Capricorn Tube | PTFE Tube with cutter | £20 | Amazon.co.uk | 2020.05.12
+Extruder Upgrade | Aluminium Block Metal Extruder kit | £12.5 | eBay.co.uk | 2020.04.08
+Lubricant | Dry PTFE Lubricant from WD-40 | £8 | Amazon.co.uk | 2020.05.10
+
+## Materials
+
+Brand | Model | Material | Price | Quantity | Source | Date | Grade | Notes
+  ---  |  ---  |  ---  |  ---  |  ---  |  ---  |  ---  |  --- | ---
+Sovol |  PLA  | PLA | £27 |  2KG | Amazon.co.uk | 2020.04.20 | ⚠️ | Prints ok, good enough for the price
+Geeetech |  Marble PLA  | PLA | £24 |  1KG | Amazon.co.uk | 2020.05.10 | ✅ | Great, especially for the price!
+SunLu |  Blue PLA  | PLA | £28 |  1KG | Amazon.co.uk | 2020.05.10 | ⚠️ | sticks less well to the bed
+Prusament |  Multiple colors PLA  | PLA | £28 |  1KG | Prusament.com | 2020.05.10 | ✅ | Great, as expected!
+Fiberlogy |  Orange TPE/TPU (Fiberflex 30D)  | TPU | £37 | 850g | 3djake.uk | 2020.10.05 | ✅ | Great so far
 
 ### Better springs
 
@@ -91,7 +106,6 @@ In terms of printable upgrades, there are a couple I highly recommend for a new 
 ### Slicer
 
 Nowadays, PrusaSlicer has Ender 3 compatibility, and the profile is pretty good. There are some things worth turning on, but I will leave this as an exercise for the reader :).
-One thing I found useful is to add a 3d model of the [magnetic bed](bed-model/bed.stl), so that you have a visual reference in PrusaSlicer when you're manipulating prints:
 ![PrusaSlicer](pics/prusa-slicer.png)
 
 ### Octoprint
