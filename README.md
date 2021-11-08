@@ -1,6 +1,6 @@
-# 3D Printer Setup
+# Ender 3 Pro Setup
 
-This is some information about my 3d printing setup, and some knowledge I accumulated on the way.
+This is some information about my Ender 3 3D printer, and some knowledge I accumulated on the way.
 
 ## Ender 3 Pro (with benefits)
 
