@@ -2,11 +2,11 @@
 
 This is some information about my Ender 3 3D printer, and some knowledge I accumulated on the way.
 
+![3D Printer](pics/enclosed.jpeg)
+
 ## Ender 3 Pro (with benefits)
 
 I started with an [Ender 3 Pro](https://www.creality3d.shop/products/creality3d-ender-3-pro-high-precision-3d-printer) that I got from [Banggood](https://www.banggood.com/Creality-3D-Customized-Version-Ender-3X-Pro-or-Ender-3Xs-Pro-Prusa-I3-3D-Printer-220x220x250mm-Printing-Size-With-Magnetic-Removable-Sticker-or-Glass-Plate-Platform-or-V1_1_5-Super-Silent-Mainboard-p-1535619.html) for relatively cheap (£220 shipped). This particular listing comes with the upgraded [Silent Mainboard V1.1.5](https://www.creality3dofficial.com/products/creality-silent-mainboard-v1-1-5) already preinstalled, making it an even better deal. They also throw in a glass bed and some clips, along with the soft magnetic bed every Ender 3 Pro comes with.
-
-![3D Printer](pics/printer.jpeg)
 
 ## Non-Printable Upgrades
 
@@ -37,17 +37,17 @@ Magnetic Bed Surface | Replacement Magnetic Bed Surface for Ender 3 | £12 | [eB
 Couplings | 10x PTFE Tube connectors (PC4-M10) | £8 | [Amazon.co.uk](https://www.amazon.co.uk/10-Pack-Straight-Connector-pc4-m10-Connector-extruder/dp/B07BPVKT48/ref=sr_1_3?dchild=1&keywords=pc4-m10&qid=1604791058&sr=8-3) | 2020.05.14
 Replacement Rollers | Plastic Wheels for Z gantry | £14 | [Amazon.co.uk](https://www.amazon.co.uk/gp/product/B07Q5WN3GK) | 2020.05.10
 Capricorn Tube | PTFE Tube with cutter | £20 | [Amazon.co.uk](https://www.amazon.co.uk/Creality-Capricorn-Bowden-Filament-Printer/dp/B07XXRVGP9/ref=sr_1_7?crid=3NUY4II7KRVB4&dchild=1&keywords=capricorn+ptfe+tube+for+1.75mm&qid=1604791074&s=industrial&sprefix=capricorn+%2Caps%2C156&sr=1-7) | 2020.05.12
+Lubricant | Dry PTFE Lubricant from WD-40 (for Z rod) | £8 | Amazon.co.uk | 2020.05.10
 
 ## Materials and Consumables
 
-Brand | Model | Material | Price | Quantity | Source | Date | Grade | Notes
+Brand | Model | Material | Price/kg | Spool size | Source | Date | Grade | Notes
   ---  |  ---  |  ---  |  ---  |  ---  |  ---  |  ---  |  --- | ---
-Lubricant | Dry PTFE Lubricant from WD-40 (for Z rod) | £8 | Amazon.co.uk | 2020.05.10
-Sovol |  PLA  | PLA | £27 |  2KG | [Amazon.co.uk](https://www.amazon.co.uk/Sovol-Filament-Spool-Printer-Black/dp/B07PW67GD8/ref=sxts_sxwds-bia-wc-drs1_0?cv_ct_cx=sovol+pla&dchild=1&keywords=sovol+pla&pd_rd_i=B07PW67GD8&pd_rd_r=1186330d-fd5c-4621-9e91-ab52d4b97e23&pd_rd_w=SFOVZ&pd_rd_wg=iQyOp&pf_rd_p=f70c4256-7ad9-477c-8d02-df6ee2e3e7c0&pf_rd_r=WWSFV5Y1FXVN0B7T7MGK&psc=1&qid=1604790558&sr=1-1-69f2aa40-4718-4485-ba0d-6c4119696677) | 2020.04.20 | ⚠️ | Prints okay but not great, good enough for the price
-Geeetech |  Marble PLA  | PLA | £24 |  1KG | [Amazon.co.uk](https://www.amazon.co.uk/Geeetech-Marble-Filament-Printer-Printers/dp/B0755BNZR5/ref=sr_1_3?dchild=1&keywords=geeetech+marble&qid=1604790618&s=industrial&sr=1-3) | 2020.05.10 | ✅ | Great, especially for the price!
-SunLu |  Blue PLA  | PLA | £28 |  1KG | [Amazon.co.uk](https://www.amazon.co.uk/SUNLU-Filament-Tangle-Free-Dimensional-Accuracy/dp/B07TJDBPP3/ref=sr_1_5?dchild=1&keywords=sunlu%2Bpla&qid=1604790658&s=industrial&sr=1-5&th=1) | 2020.05.10 | ⚠️ | Issues sticking to the bed, compared to the other filaments I have
-Prusament |  Multiple colors PLA  | PLA | £28 |  1KG | [Prusament.com](https://prusament.com) | 2020.05.10 | ✅ | Great, as expected!
 Fiberlogy |  Orange TPE/TPU (Fiberflex 30D)  | TPU | £37 | 850g | [3djake.uk](https://www.3djake.uk/fiberlogy/fiberflex-30d-orange?sai=4711) | 2020.10.05 | ✅ | Great so far
+Geeetech |  Marble PLA  | PLA | £24 |  1KG | [Amazon.co.uk](https://www.amazon.co.uk/Geeetech-Marble-Filament-Printer-Printers/dp/B0755BNZR5/ref=sr_1_3?dchild=1&keywords=geeetech+marble&qid=1604790618&s=industrial&sr=1-3) | 2020.05.10 | ✅ | Great, especially for the price!
+Prusament |  Multiple colors PLA  | PLA | £28 |  1KG | [Prusament.com](https://prusament.com) | 2020.05.10 | ✅ | Great, as expected!
+Fillamentum | Multiple colors PLA | PLA | £25 | 0.75KG | [3djake.uk](https://www.3djake.uk/search?keyword=Fillamentum+PLA) | 2021.01.01| ✅ | Many colors to choose from, smaller size
+Fillamentum | Multiple colors ASA | ASA | £31 | 0.75KG | [3djake.uk](https://www.3djake.uk/search?keyword=Fillamentum+ASA) | 2021.01.01| ✅ | Many colors to choose from, smaller size
 
 ### Better springs
 
@@ -100,8 +100,6 @@ This board also does a bunch of other fancy things like having dedicated ports f
 
 BLTouch is one of the most popular bed levelling sensors available, designed for Creality machines, you can easily install it on your machine and get it working as Marlin has support for it.
 
-TODO: Come back with more findings after testing it more intensively.
-
 ![bltouch](pics/bltouch.jpeg)
 
 ### Printable Upgrades
@@ -118,12 +116,15 @@ In terms of printable upgrades, there are a couple I highly recommend for a new 
 * [Front drawer](https://www.thingiverse.com/thing:3162464), you can place your tools in there. Note: Very long print.
 ![Drawer](pics/drawer.jpeg)
 * [Coupling clips](https://www.thingiverse.com/thing:2994683), who said you need to buy those clips when you can print them! 
+* [Fan Shroud](https://www.printables.com/model/214544-red-squirrel-ender-3-fan-shroud-bltouch-holder-and)
+* [Enclosure](https://www.printables.com/model/3673-prusa-enclosure-v2-mmu2s), includes 
 
-## Software
+### Tuning
 
+The best guide I know of for tuning a 3D printer is [Ellis' Print Tuning Guide](https://github.com/AndrewEllis93/Print-Tuning-Guide)
 ### Slicer
 
-Nowadays, PrusaSlicer has Ender 3 compatibility, and the profile is pretty good. There are some things worth turning on, but I will leave this as an exercise for the reader :).
+Nowadays, PrusaSlicer has Ender 3 compatibility, and the profile is pretty good. There are some things worth turning on, but I will leave this as an exercise for the reader :). SuperSlicer is a also worth mentioning as a PrusaSlicer fork that has some extra features and is worth checking out.
 ![PrusaSlicer](pics/prusa-slicer.png)
 
 ### Octoprint
@@ -131,6 +132,18 @@ Nowadays, PrusaSlicer has Ender 3 compatibility, and the profile is pretty good.
 Using Octoprint to control the printer is a great way to remotely control and monitor your long prints, not requiring you to be in the same room as the printer all the time! Just flash [Octoprint](https://octoprint.org) on a MicroSD card and pop it into a Raspberry Pi and you're good to go. Adding a USB webcam into the mix makes things even better:
 
 ![Octoprint](pics/octoprint.png)
+
+## Klipper
+
+Klipper is an even better 3D printer firmware that allows the use of macros, which are really powerful for defining reusable routines.
+While Klipper can work with Octoprint, at fast print speeds or many operation, Octoprint starts to lag behind. Moonraker + Mainsail/Fluidd are recommended.
+
+![Mainsail UI](pics/mainsail.png)
+
+* [Klipper Docs](https://www.klipper3d.org)
+* [Mainsail Docs](https://docs.mainsail.xyz)
+* [My Ender config](https://github.com/calini/klipper_config-ender_3)
+
 
 ## Finally printing
 
@@ -142,3 +155,9 @@ Well, there it is, and apart from a bit of stringing which is common with Bowden
 Also, check out how well this bust of Helios printed. Just perfect while listening to some [MACINTOSH PLUS](https://www.youtube.com/watch?v=bAgmGZ9iQ2Y).
 
 ![Helios](pics/helios.jpeg)
+
+## Beginnings
+
+Here is the printer in its original form:
+
+![3D Printer in original form](pics/original.jpeg)
